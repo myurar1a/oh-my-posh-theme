@@ -18,6 +18,9 @@
         },
         {
           "foreground": "#689f38",
+          "properties": {
+            "always_enabled": true
+          },
           "style": "plain",
           "template": " {{ .FormattedMs }} ",
           "type": "executiontime"
