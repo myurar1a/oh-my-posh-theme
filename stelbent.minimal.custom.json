@@ -18,11 +18,7 @@
         },
         {
           "foreground": "#689f38",
-          "powerline_symbol": "\ue0b4",
-          "properties": {
-            "always_enabled": true
-          },
-          "style": "powerline",
+          "style": "plain",
           "template": " {{ .FormattedMs }} ",
           "type": "executiontime"
         }
